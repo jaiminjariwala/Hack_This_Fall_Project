@@ -13,3 +13,20 @@ Hack_This_Fall Hackathon was Oraganized from 3rd Feb to 5th Feb, So worked on Lo
 
 ### **Testing API using Postman**
 ![image](https://user-images.githubusercontent.com/70468773/217221032-880c7e33-f04e-44da-89af-02f9942de2f7.png)
+
+
+### **Dependencies Required to be installed...**
+* pip instal fastapi uvicorn <br>
+* pip install numpy <br>
+* pip install pandas <br>
+* pip install pickle <br>
+* pip install scikit-learn <br>
+* pip install joblib <br>
+
+### **Imports that are required...**
+* import pandas as pd <br>
+* import numpy as np <br>
+* from sklearn.metrics.pairwise import cosine_similarity
+* import uvicorn
+* import pickle
+* from fastapi import FastAPI
