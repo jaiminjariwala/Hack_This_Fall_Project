@@ -7,3 +7,9 @@ Hack_This_Fall Hackathon was Oraganized from 3rd Feb to 5th Feb, So worked on Lo
 
 # Datasets: (I have Used Book Dataset and then Modified it to get the Users and Ratings Straight-away)
 * At Kaggle -> Data: https://www.kaggle.com/code/jaiminmukeshjariwala/recommendation-system/edit
+
+![image](https://user-images.githubusercontent.com/70468773/217220414-90cb524d-8f39-45d8-9e73-35bf8ee011f1.png)
+![image](https://user-images.githubusercontent.com/70468773/217220514-04b42948-5df8-4194-b4b2-e5c6e0bc93be.png)
+
+### **Testing API using Postman**
+![image](https://user-images.githubusercontent.com/70468773/217221032-880c7e33-f04e-44da-89af-02f9942de2f7.png)
